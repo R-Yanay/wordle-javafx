@@ -34,7 +34,7 @@ public class WordleGame {
      * Prüft einen Versuch und gibt die Farbcodierung zurück.
      * Fügt den Versuch automatisch zur Liste hinzu.
      *
-     * @param guess der Versuch des Spielers (5 Buchstaben, Großbuchstaben)
+     * @param guess der Versuch des Spielers (5 Buchstaben, Grossbuchstaben)
      * @return Array aus 5 LetterState-Werten, einer pro Buchstabe
      */
     public LetterState[] checkGuess(String guess) {

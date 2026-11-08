@@ -191,7 +191,7 @@ public class WordleController {
         keyboard.setAlignment(Pos.CENTER);
         keyboard.setPadding(new Insets(10, 0, 10, 0));
 
-        // Tastengröße
+        // Tastengroesse
         final int KEY_SIZE = 45;
         final int KEY_WIDE = 75;
 
